@@ -33,12 +33,13 @@ ps：
 
 
 
-![image-20210902194245616](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210902194245616.png)
 
-引用自：
 
 [Spring]: D:\Personal\Personal\SoftwareProgramming\SpringMVC\SpringMVC.md
+
+查看上面笔记中的SpringMVC逻辑图
 
 
 
 > 用Tset中的方法对不同层面的方法进行逐一验证，之后再进行封装
+

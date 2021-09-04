@@ -110,7 +110,7 @@ public class SwaggerConfig{
 ```
 
 swagger-ui.html效果图：
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210902163524587.png" alt="image-20210902163524587" style="zoom:80%;" />
+<img src="Swagger.assets/image-20210902163524587.png" alt="image-20210902163524587" style="zoom:80%;" />
 
 ### 3.×××Controller
 

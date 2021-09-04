@@ -1,5 +1,3 @@
-
-
 # Spring MVC
 
 
@@ -20,7 +18,7 @@ MVC是从早期的Java Web开发模型演变来的
 
 ### Model 1
 
-![image-20210902193635800](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210902193635800.png)
+![](SpringMVC.assets/image-20210902193635800.png)
 
 显示层，控制层以及数据层都交给JSP或Java Bean来处理，由此导致
 
@@ -31,7 +29,7 @@ MVC是从早期的Java Web开发模型演变来的
 
 ### Model 2
 
-![image-20210902193816876](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210902193816876.png)
+![](SpringMVC.assets/image-20210902193816876.png)
 
 Servlet + JSP + JavaBean取代了上面的模式，也就形成了早期的**MVC模式**
 
@@ -51,7 +49,7 @@ Servlet + JSP + JavaBean取代了上面的模式，也就形成了早期的**MVC
 
 为解决持久层中一直未处理好的数据库事务的编程，又为了迎合 NoSQL 的强势崛起
 
-![image-20210902194245616](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210902194245616.png)
+![](SpringMVC.assets/image-20210902194245616.png)
 
 传统的模型层又被拆分成了**业务层(Service)**和**数据访问层(DAO, Data Access Object)**
 

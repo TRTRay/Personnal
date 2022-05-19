@@ -6,7 +6,7 @@
 
 参考：
 
-[springboot添加mybatis数据库依赖 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv3763194)
+[使用springboot实现一个简易的用户注册功能 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv3781880?spm_id_from=333.999.0.0)
 
 
 

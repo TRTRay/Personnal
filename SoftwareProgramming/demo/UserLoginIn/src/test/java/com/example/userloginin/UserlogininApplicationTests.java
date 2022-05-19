@@ -20,7 +20,7 @@ class UserlogininApplicationTests {
         Connection conn;
         try{
             conn = dataSource.getConnection();
-            System.err.println(conn);
+            System.err.println(dataSource.toString());
         }catch (SQLException e)
         {
             e.printStackTrace();
